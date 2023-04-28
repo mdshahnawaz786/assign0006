@@ -1,0 +1,19 @@
+.upperContainer{
+    height: 43.5%;
+    width: 100%;
+    background-color: rgb(25,50,91);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    color: white;
+}
+
+.upperContainer button {
+    height: 15%;
+    width: 13%;
+    background-color: rgb(39,135,64);
+    color: white;
+    border: none;
+}
